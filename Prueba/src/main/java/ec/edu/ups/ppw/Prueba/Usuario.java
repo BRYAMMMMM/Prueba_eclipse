@@ -27,7 +27,7 @@ private String Direccion;
 @Column(name="usu_consumo")
 private String Consumo;
 
-@Column(name="usu_consumo")
+@Column(name="usu_deuda")
 private String Deuda;
 
 public int getUsuarioid() {
